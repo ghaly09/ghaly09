@@ -1,3 +1,6 @@
+<img style="position: relative;
+  top: 100px; left: 110px" alt="Target" src="https://user-images.githubusercontent.com/60167960/226065264-2bbd1ac8-7861-41e5-b1b1-2918e1ed7fdf.gif" width="60px">
+
 <a href="">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghalydev/main/header-dark.svg">
@@ -24,7 +27,7 @@
 <br />
 
 <details>
-  <summary><h2>📊 Statistics</h2></summary>
+  <summary><h2>📊 Show Statistics</h2></summary>
   <div>
     <br />
     <div>
