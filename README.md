@@ -1,6 +1,4 @@
 <a href="">
-<!-- <img style="position: relative;
-  top: 100px; left: 110px" alt="Target" src="https://user-images.githubusercontent.com/60167960/226065264-2bbd1ac8-7861-41e5-b1b1-2918e1ed7fdf.gif" width="60px"> -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghalydev/main/header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghaly09/ghalydev/main/header.svg" />
