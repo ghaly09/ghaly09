@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.documentSelectors": ["**/*.svg"],
+  "svg.preview.background": "custom"
+}
