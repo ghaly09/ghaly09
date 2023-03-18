@@ -52,7 +52,7 @@
 <!-- CUrrent Favorite Tech -->
 <br /><br />
 <summary><h2>🛠️ Current favorite tech stack/tools:</h2></summary>
-      <source srcset="https://raw.githubusercontent.com/ghaly09/ghalydev/main/techskills.svg">
+      <source srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/techskills.svg">
     </div>
   </div>
 </details>
