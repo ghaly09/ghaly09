@@ -53,16 +53,17 @@
 <br /><br />
 <summary><h2>🛠️ Current favorite tech stack/tools:</h2></summary>
       <div align="left" style="text-indent :2.5rem; letter-spacing: 5px" >
+      <a href="">
       <picture>
-      <a href=""><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/git.svg"></a>
-      <a href="" ><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/python.svg"></a>
-<a href=""><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/javascript.svg"></a>
-      <a href="" ><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/typeScript.svg"></a>
-      <a href=""><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/react.svg"></a> 
-      <a href=""><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/framer.svg"></a> 
-      <a href=""><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/next.svg"></a> 
-     <span style="font-size: 25px; font-weight: 200">'</span><a href=""><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/vsc.svg"></a> 
-      <a href=""><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/figma.svg"></a></picture></div>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/git.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/python.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/javascript.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/typeScript.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/react.svg"> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/framer.svg"> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/next.svg"> 
+     <span style="font-size: 25px; font-weight: 200">'</span><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/vsc.svg"> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/figma.svg"></picture></a></div>
     </div>
   </div>
 </details>
