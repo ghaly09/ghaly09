@@ -64,8 +64,8 @@
       <a style="font-size: 25px; font-weight: 200"></a><a href=""><img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/vsc.svg" alt="vsc"></a>
       <a href=""><img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/figma.svg" alt="figma"></a>
       </div> -->
-  <!-- <img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/skillsets.svg"> -->
-  <img src="./assets/skillsets.svg">
+  <img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/skillsets.svg" style="width: 700px; height: auto">
+      <!-- <img src="./assets/skillsets.svg" style="width: 700px; height: auto"> -->
     </div>
   </div>
 </details>
