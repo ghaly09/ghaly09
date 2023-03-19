@@ -52,8 +52,7 @@
 <!-- CUrrent Favorite Tech -->
 <br /><br />
 <h2>🛠️ Current favorite tech stack/tools:</h2>
-      <div align="left" style="text-indent :2.5rem; letter-spacing: 5px" >
-      <picture>
+      <p align="left" style="text-indent :2.5rem; letter-spacing: 5px" >
       <a href=""><img src="https://user-images.githubusercontent.com/60167960/226152088-53d37299-f489-489c-95f9-fb0ff1394130.svg" alt="git"></a>
       <a href=""><img src="https://user-images.githubusercontent.com/60167960/226152086-f872c58c-d65c-468d-b95a-f8a782967fc3.svg" alt="python"></a>
       <a href=""><img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/javascript.svg" alt="javascript"></a>
@@ -64,8 +63,7 @@
       <a href=""><img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/next.svg" alt="nextjs"></a> 
       <span style="font-size: 25px; font-weight: 200">'</span><a href=""><img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/vsc.svg" alt="vsc"></a>
       <a href=""><img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/figma.svg" alt="figma"></a>
-      </picture>
-      </div>
+      </p>
     </div>
   </div>
 </details>
