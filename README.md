@@ -51,22 +51,20 @@
       </a>
 <!-- CUrrent Favorite Tech -->
 <br /><br />
-<summary><h2>🛠️ Current favorite tech stack/tools:</h2></summary>
+<h2>🛠️ Current favorite tech stack/tools:</h2>
       <div align="left" style="text-indent :2.5rem; letter-spacing: 5px" >
-      <a href="">
       <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60167960/226152088-53d37299-f489-489c-95f9-fb0ff1394130.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60167960/226152086-f872c58c-d65c-468d-b95a-f8a782967fc3.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/javascript.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/typeScript.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/react.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/tailwind.svg"> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/framer.svg"> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/next.svg"> 
-      <span style="font-size: 25px; font-weight: 200">'</span><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/vsc.svg"> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/figma.svg">
+      <a href=""><img src="https://user-images.githubusercontent.com/60167960/226152088-53d37299-f489-489c-95f9-fb0ff1394130.svg" alt="git"></a>
+      <a href=""><img src="https://user-images.githubusercontent.com/60167960/226152086-f872c58c-d65c-468d-b95a-f8a782967fc3.svg" alt="python"></a>
+      <a href=""><img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/javascript.svg" alt="javascript"></a>
+      <a href=""><img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/typeScript.svg" alt="typeScript"></a>
+      <a href=""><img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/react.svg" alt="react"></a>
+      <a href=""><img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/tailwind.svg" alt="tailwind"></a> 
+      <a href=""><img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/framer.svg" alt="framer"></a>
+      <a href=""><img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/next.svg" alt="nextjs"></a> 
+      <span style="font-size: 25px; font-weight: 200">'</span><a href=""><img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/vsc.svg" alt="vsc"></a>
+      <a href=""><img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/figma.svg" alt="figma"></a>
       </picture>
-      </a>
       </div>
     </div>
   </div>
