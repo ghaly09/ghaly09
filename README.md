@@ -64,7 +64,10 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/framer.svg"> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/next.svg"> 
       <span style="font-size: 25px; font-weight: 200">'</span><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/vsc.svg"> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/figma.svg"></picture></a></div>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/figma.svg">
+      </picture>
+      </a>
+      </div>
     </div>
   </div>
 </details>
