@@ -8,15 +8,11 @@
   preserveAspectRatio="xMidYMid"
   fill="#000000"
 >
-  <g id="SVGRepo_bgCarrier" stroke-width="0" />
+  <g stroke-width="0" />
 
-  <g
-    id="SVGRepo_tracerCarrier"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-  />
+  <g stroke-linecap="round" stroke-linejoin="round" />
 
-  <g id="SVGRepo_iconCarrier">
+  <g>
     <g>
       <polygon
         fill="#007ACC"
