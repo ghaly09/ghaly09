@@ -53,6 +53,7 @@
 <br /><br />
 <summary><h2>🛠️ Current favorite tech stack/tools:</h2></summary>
       <div align="left" style="text-indent :2.5rem; letter-spacing: 5px" >
+      <picture>
       <a href=""><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/git.svg"></a>
       <a href="" ><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/python.svg"></a>
 <a href=""><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/javascript.svg"></a>
@@ -61,7 +62,7 @@
       <a href=""><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/framer.svg"></a> 
       <a href=""><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/next.svg"></a> 
      <span style="font-size: 25px; font-weight: 200">'</span><a href=""><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/vsc.svg"></a> 
-      <a href=""><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/figma.svg"></a></div>
+      <a href=""><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/figma.svg"></a></picture></div>
     </div>
   </div>
 </details>
