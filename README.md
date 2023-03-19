@@ -65,6 +65,7 @@
       <a href=""><img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/figma.svg" alt="figma"></a>
       </div> -->
   <img src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/skillsets.svg">
+  <!-- <img src="./assets/skillsets.svg"> -->
     </div>
   </div>
 </details>
