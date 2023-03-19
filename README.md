@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghalydev/main/header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghaly09/ghalydev/main/header.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60167960/226152086-f872c58c-d65c-468d-b95a-f8a782967fc3.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/60167960/226152086-f872c58c-d65c-468d-b95a-f8a782967fc3.svg">
     <img alt="Rachmat Ghaly | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="" width="100%" />
   </picture>
 </a>
