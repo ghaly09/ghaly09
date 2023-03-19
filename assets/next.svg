@@ -3,6 +3,8 @@
   viewBox="0 0 24 24"
   role="img"
   fill="currentColor"
+  stroke="white"
+  stroke-width="0.2"
   width="30"
   height="30"
 >
