@@ -55,8 +55,8 @@
       <div align="left" style="text-indent :2.5rem; letter-spacing: 5px" >
       <a href="">
       <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/git.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/python.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60167960/226152088-53d37299-f489-489c-95f9-fb0ff1394130.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/60167960/226152086-f872c58c-d65c-468d-b95a-f8a782967fc3.svg">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/javascript.svg">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/typeScript.svg">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/react.svg">
