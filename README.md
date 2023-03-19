@@ -59,7 +59,8 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/python.svg">
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/javascript.svg">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/typeScript.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/react.svg"> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/react.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/tailwind.svg"> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/framer.svg"> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/next.svg"> 
      <span style="font-size: 25px; font-weight: 200">'</span><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/vsc.svg"> 
