@@ -51,14 +51,12 @@
       <div style="display: block">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <picture >
-          <img width="780em" src="https://github-readme-activity-graph.cyclic.app/graph?username=ghaly09&line=00CFC9&theme=github-compact"/>
+          <img width="780em" src="https://github-readme-activity-graph.cyclic.app/graph?username=ghaly09&line=00CFC9&point=FFFFFF&radius=10&area=true&theme=github-compact"/>
         </picture>
       </a>
       </div>
 <!-- CUrrent Favorite Tech -->
-
 <br />
-
 <h2>🛠️ Current favorite tech stack/tools:</h2>
 <img
         src="https://user-images.githubusercontent.com/60167960/226206415-89be3b0c-00cd-40eb-99eb-84aa9c9a10c5.svg"
