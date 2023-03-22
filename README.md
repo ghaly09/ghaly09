@@ -36,14 +36,14 @@
     <a href="https://github.com/ghaly09?tab=repositories&q=&type=&language=&sort=stargazers">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ghaly09&show_icons=true&title_color=00CFC9&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ghaly09" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ghaly09&title_color=01aaa5" />
           <img height="160em" alt="Rachmat Ghaly's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ghaly09&show_icons=true&title_color=00CFC9&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff" />
         </picture>
       </a>
       <a href="https://github.com/ghaly09?tab=repositories&q=&type=&language=&sort=stargazers">
         <picture >
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?layout=compact&username=ghaly09&show_icons=true&title_color=00CFC9&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?layout=compact&username=ghaly09&count_private=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?layout=compact&username=ghaly09&title_color=01aaa5&count_private=true" />
           <img height="160em"  alt="Rachmat Ghaly's Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?layout=compact&username=ghaly09&show_icons=true&title_color=00CFC9&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
         </picture>
       </a>
@@ -51,6 +51,7 @@
       <div style="display: block">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <picture >
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=ghaly09&line=00CFC9&point=000000&radius=10&area=true&theme=github-compact" />
           <img width="780em" src="https://github-readme-activity-graph.cyclic.app/graph?username=ghaly09&line=00CFC9&point=FFFFFF&radius=10&area=true&theme=github-compact"/>
         </picture>
       </a>
