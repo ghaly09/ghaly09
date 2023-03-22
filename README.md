@@ -41,15 +41,24 @@
         </picture>
       </a>
       <a href="https://github.com/ghaly09?tab=repositories&q=&type=&language=&sort=stargazers">
-        <picture>
+        <picture >
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?layout=compact&username=ghaly09&show_icons=true&title_color=00CFC9&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?layout=compact&username=ghaly09&count_private=true" />
-          <img height="160em" alt="Rachmat Ghaly's Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?layout=compact&username=ghaly09&show_icons=true&title_color=00CFC9&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
+          <img height="160em"  alt="Rachmat Ghaly's Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?layout=compact&username=ghaly09&show_icons=true&title_color=00CFC9&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
         </picture>
       </a>
-      
+      <br /> <br />
+      <div style="display: block">
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <picture >
+          <img width="780em" src="https://github-readme-activity-graph.cyclic.app/graph?username=ghaly09&line=00CFC9&theme=github-compact"/>
+        </picture>
+      </a>
+      </div>
 <!-- CUrrent Favorite Tech -->
-<br /><br />
+
+<br />
+
 <h2>🛠️ Current favorite tech stack/tools:</h2>
 <img
         src="https://user-images.githubusercontent.com/60167960/226206415-89be3b0c-00cd-40eb-99eb-84aa9c9a10c5.svg"
