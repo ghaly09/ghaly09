@@ -52,7 +52,7 @@
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <picture >
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ghaly09&line=00CFC9&point=000000&radius=10&area=true&theme=github-compact" />
-          <img width="780em" src="https://github-readme-activity-graph.cyclic.app/graph?username=ghaly09&line=00CFC9&point=FFFFFF&radius=10&area=true&theme=github-compact"/>
+          <img width="780em" src="https://github-readme-activity-graph.vercel.app/graph?username=ghaly09&line=00CFC9&point=FFFFFF&radius=10&area=true&theme=github-compact"/>
         </picture>
       </a>
       </div>
