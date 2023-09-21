@@ -23,7 +23,9 @@
 <br />
 <br />
 <details>
-  <summary align="center" ><h2>📊 Show Statistics & More</h2></summary>
+  <summary align="center" > 
+    📊 Show Statistics & More
+  </summary>
   <div>
     <br />
     <div>
