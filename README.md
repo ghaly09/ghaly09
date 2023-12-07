@@ -24,7 +24,7 @@
 <br />
 <details>
   <summary align="center" > 
-    <h2>📊</h2> Show Statistics & More
+    <h2>📊 Show Statistics & More</h2>
   </summary>
   <div>
     <br />
