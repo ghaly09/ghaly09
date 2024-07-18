@@ -1,10 +1,8 @@
-<a href="">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghalydev/main/header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghaly09/ghalydev/main/header.svg" />
     <img alt="Rachmat Ghaly | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="" width="100%" />
   </picture>
-</a>
 
 <header>
   <div align="center">
