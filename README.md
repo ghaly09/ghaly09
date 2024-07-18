@@ -6,7 +6,7 @@
 
 <header>
   <div align="center">
-    <a href="">
+    <a href="https://rachmatghaly.vercel.app">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=00A8A3&label=Website&message=ghaly.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
     </a>
     <a href="https://www.linkedin.com/in/rachmat-ghaly">
@@ -21,7 +21,9 @@
 <br />
 <br />
 <details>
-  <summary align="center" ><h2>📊 Show Statistics & More</h2></summary>
+  <summary align="center" > 
+    <h2>📊 Show Statistics & More</h2>
+  </summary>
   <div>
     <br />
     <div>
