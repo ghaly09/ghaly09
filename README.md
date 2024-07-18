@@ -1,12 +1,14 @@
+<a href="">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghaly09/ghalydev/main/header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghaly09/ghalydev/main/header.svg" />
     <img alt="Rachmat Ghaly | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="" width="100%" />
   </picture>
+</a>
 
 <header>
   <div align="center">
-    <a href="https://rachmatghaly.vercel.app">
+    <a href="">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=00A8A3&label=Website&message=ghaly.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
     </a>
     <a href="https://www.linkedin.com/in/rachmat-ghaly">
@@ -21,9 +23,7 @@
 <br />
 <br />
 <details>
-  <summary align="center" > 
-    <h2>📊 Show Statistics & More</h2>
-  </summary>
+  <summary align="center" ><h2>📊 Show Statistics & More</h2></summary>
   <div>
     <br />
     <div>
