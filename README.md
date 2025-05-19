@@ -9,7 +9,7 @@
 <header>
   <div align="center">
     <a href="https://rachmatghaly.vercel.app">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=00A8A3&label=My Website&message=ghaly.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=00A8A3&label=Website&message=ghaly.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
     </a>
     <a href="https://www.linkedin.com/in/rachmat-ghaly">
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Linkedin-Rachmat Ghaly-00A8A3?style=flat&logo=linkedin&logoColor=ffffff&labelColor=334155">
