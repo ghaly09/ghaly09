@@ -59,7 +59,7 @@
 <!-- CUrrent Favorite Tech -->
 <br />
 <h2>🛠️ Current favorite tech stack/tools:</h2>
-<div style="display: flex" >
+<div style="display: flex; flex-direction: row; gap: 1rem; justify-content: space-between; flex-wrap: wrap;">
   <img
         src="https://user-images.githubusercontent.com/60167960/226206415-89be3b0c-00cd-40eb-99eb-84aa9c9a10c5.svg"
         width="63"
