@@ -59,83 +59,83 @@
 <!-- CUrrent Favorite Tech -->
 <br />
 <h2>🛠️ Current favorite tech stack/tools:</h2>
-      <div style="display: flex" >
-<img
+<div style="display: flex" >
+  <img
         src="https://user-images.githubusercontent.com/60167960/226206415-89be3b0c-00cd-40eb-99eb-84aa9c9a10c5.svg"
         width="63"
         height="57"
         alt="nodejs"
         title="nodejs"
       />
-<img
+  <img
         src="https://user-images.githubusercontent.com/60167960/226152088-53d37299-f489-489c-95f9-fb0ff1394130.svg"
         width="50"
         height="55"
         alt="git"
         title="git"
       />
-<img
+  <img
         src="https://user-images.githubusercontent.com/60167960/226152086-f872c58c-d65c-468d-b95a-f8a782967fc3.svg"
         width="50"
         height="55"
         alt="python"
         title="python"
       />
-<img
+  <img
         src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/javascript.svg"
         width="50"
         height="65"
         alt="javascript"
         title="javascript"
       />
-<img
+  <img
         src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/typeScript.svg"
         width="40"
         height="50"
         alt="typescript"
         title="typescript"
       />
-<img
+  <img
         src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/react.svg"
         width="45"
         height="45"
         alt="reactjs"
         title="reactjs"
       />
-<img
+  <img
         src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/tailwind.svg"
         width="50"
         height="50"
         alt="tailwindcss"
         title="tailwindcss"
       />
-<img
+  <img
         src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/framer.svg"
         width="40"
         height="40"
         alt="framer"
         title="framer"
       />
-<img
+  <img
         src="https://user-images.githubusercontent.com/60167960/226171904-03fca69e-dd4b-4e05-8276-dd4396f62907.svg"
         width="45"
         height="45"
         alt="nextjs"
         title="nextjs"
       />
-<img
+  <img
         src="https://user-images.githubusercontent.com/60167960/226206827-2b005282-0b89-4bf0-9e68-f48ad671db96.svg"
         width="20"
         height="45"
       />
-<img
+  <img
         src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/vsc.svg"
         width="45"
         height="45"
         alt="VSCode"
         title="VSCode"
       />
-<img
+  <img
         src="https://raw.githubusercontent.com/ghaly09/ghaly09/main/assets/figma.svg"
         width="45"
         height="45"
